@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ejercicioaitorandroid.MainActivity">
+    <item
+        android:id="@+id/papelera"
+        android:orderInCategory="100"
+        android:title="papelera"
+        android:icon="@drawable/papelera"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>
